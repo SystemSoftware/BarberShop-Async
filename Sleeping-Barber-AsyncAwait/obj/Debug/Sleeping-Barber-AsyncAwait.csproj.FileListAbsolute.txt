@@ -1,0 +1,5 @@
+c:\users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber-AsyncAwait\bin\Debug\Sleeping-Barber-AsyncAwait.exe.config
+C:\Users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber-AsyncAwait\bin\Debug\Sleeping-Barber-AsyncAwait.exe
+C:\Users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber-AsyncAwait\bin\Debug\Sleeping-Barber-AsyncAwait.pdb
+C:\Users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber-AsyncAwait\obj\Debug\Sleeping-Barber-AsyncAwait.exe
+C:\Users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber-AsyncAwait\obj\Debug\Sleeping-Barber-AsyncAwait.pdb

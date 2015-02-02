@@ -1,0 +1,6 @@
+c:\users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber\bin\Debug\Sleeping-Barber.exe.config
+c:\users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber\bin\Debug\Sleeping-Barber.exe
+c:\users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber\bin\Debug\Sleeping-Barber.pdb
+c:\users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber\obj\Debug\Sleeping-Barber.csprojResolveAssemblyReference.cache
+c:\users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber\obj\Debug\Sleeping-Barber.exe
+c:\users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber\obj\Debug\Sleeping-Barber.pdb

@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sleeping-Barber-Semaphore", "Sleeping-Barber\Sleeping-Barber-Semaphore.csproj", "{FA021EF4-418F-4A23-8F06-A8C742ED782D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sleeping-Barber-AsyncAwait", "Sleeping-Barber-AsyncAwait\Sleeping-Barber-AsyncAwait.csproj", "{87AE7671-A3BA-4C27-BDE8-330F0B7729AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA021EF4-418F-4A23-8F06-A8C742ED782D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA021EF4-418F-4A23-8F06-A8C742ED782D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA021EF4-418F-4A23-8F06-A8C742ED782D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA021EF4-418F-4A23-8F06-A8C742ED782D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AE7671-A3BA-4C27-BDE8-330F0B7729AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AE7671-A3BA-4C27-BDE8-330F0B7729AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AE7671-A3BA-4C27-BDE8-330F0B7729AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AE7671-A3BA-4C27-BDE8-330F0B7729AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

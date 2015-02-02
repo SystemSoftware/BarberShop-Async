@@ -1,0 +1,5 @@
+C:\Users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber\bin\Debug\Sleeping-Barber.exe.config
+C:\Users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber\bin\Debug\Sleeping-Barber.exe
+C:\Users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber\bin\Debug\Sleeping-Barber.pdb
+C:\Users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber\obj\Debug\Sleeping-Barber.exe
+C:\Users\hammerbeat\documents\visual studio 2013\Projects\Sleeping-Barber\Sleeping-Barber\obj\Debug\Sleeping-Barber.pdb
